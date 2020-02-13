@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>firstspringhibernate</name>
+  <!-- Comment -->
   <properties>
               <java-version>1.7</java-version>
               <org.springframework-version>4.0.3.RELEASE</org.springframework-version>
